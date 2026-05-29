@@ -13,5 +13,10 @@ To demonstrate how blockchain can make voting tamper-proof and transparent, remo
 4. No access control in the contract implementation
 
 ### Possible improvements
+1. Project structure
+2. Enhanching security 
 
 ### Technical stack and platform
+Server: FastAPI
+Programming languages: Python, JavaScript
+Decentralisation: Ethereum, Web3 Architecture
