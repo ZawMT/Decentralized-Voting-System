@@ -8,10 +8,10 @@
     - Verify: `npm --version`
 3. Ganache desktop app (already installed based on your screenshot)
     - If not installed yet: download from trufflesuite.com/ganache
-4. Optional but common — Truffle or Hardhat (smart contract frameworks)
-    `npm install -g truffle`
-    or
-    `npm install --save-dev hardhat`
+4. Optional but common — Truffle or Hardhat (smart contract frameworks). 
+    `npm install -g truffle`    
+    or  
+    `npm install --save-dev hardhat` 
 
 ### Running Ganache
 1. Open Ganache.  
@@ -19,7 +19,7 @@
 
 2. Click NEW WORKSPACE.  
 
-3. Under "Add Project", browse to and select: /Users/zaw/MyFiles/Yoobee/804-PrjStudy/Decentralized-Voting-System/truffle-config.js.     
+3. Under "Add Project", browse to and select: /Decentralized-Voting-System/truffle-config.js.     
 ![AddProject](./images/02-AddProject.png)
 
 4. Click Start or Save Workspace.   
