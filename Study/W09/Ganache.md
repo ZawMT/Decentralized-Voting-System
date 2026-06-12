@@ -3,15 +3,15 @@
 ### Prerequisites
 1. Node.js (v12 or later recommended)
     - Download from nodejs.org
-    - Verify: node --version
+    - Verify: `node --version`
 2. npm (comes with Node.js)
-    - Verify: npm --version
+    - Verify: `npm --version`
 3. Ganache desktop app (already installed based on your screenshot)
     - If not installed yet: download from trufflesuite.com/ganache
 4. Optional but common — Truffle or Hardhat (smart contract frameworks)
-    npm install -g truffle
-    # or
-    npm install --save-dev hardhat
+    `npm install -g truffle`
+    or
+    `npm install --save-dev hardhat`
 
 ### Running Ganache
 1. Open Ganache.  
