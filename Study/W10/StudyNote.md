@@ -25,8 +25,8 @@
 5.  Bundle the frontend and run    
     5.1 In __Decentralized-Voting-System__, `npx browserify ./src/js/app.js -o ./src/dist/app.bundle.js`.    
     5.2 In __Decentralized-Voting-System__, `npx browserify ./src/js/login.js -o ./src/dist/login.bundle.js`.    
-    5.3 In one terminal, run the Express server: `node index.js`     
-    5.4 In another terminal, in env-bc, run the web server: `uvicorn main:app --reload --host 127.0.0.1`.    
+    5.3 In one terminal, inside __Decentralized-Voting-System__, run the Express server: `node index.js`     
+    5.4 In another terminal, in env-bc, in __Database_API__, run the web server: `uvicorn main:app --reload --host 127.0.0.1`.    
     5.5 Then http://localhost:8080/ should give the login page as follows:
     ![Login](./images/Login.png)
 ---
